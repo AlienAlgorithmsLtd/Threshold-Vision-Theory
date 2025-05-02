@@ -1,0 +1,3 @@
+Threshold Vision Theory (TVT) explores a unique perceptual phenomenon in which an individual can voluntarily suppress visual input in mid-range ambient light, leading to a progressive narrowing of vision and eventual blackout. This state is non-pathological, fully reversible, and may grant access to deeper cognitive functions such as symbolic thought, emotional memory retrieval, or ancestral pattern recognition.
+
+Unlike tunnel vision from anxiety or sensory shutdowns in neurodivergence, TVT is intentional, environmentally triggered, and follows a distinct phase progression. This repository documents the theory, mechanisms, potential applications, and experimental paths forward for one of the most novel cognitive gateways identified in modern consciousness studies.
